@@ -1,0 +1,5 @@
+id,bedrooms,yr_built,house-width-category,tense-category
+1,1,1950,tiny,very old
+2,2,1970,medium,old
+3,3,1995,wide,old
+4,4,2005,wide,new
